@@ -1,3 +1,1 @@
-# May16
-
-This is for practising git commands
+# Github Backup script
